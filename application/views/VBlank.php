@@ -1,0 +1,1 @@
+<div><img src="<?php echo base_url('temp/dist/img/tutwuri.png'); ?>" style="position: center;size: cover"></div>
